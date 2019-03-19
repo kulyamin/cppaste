@@ -1,3 +1,8 @@
+/*
+пока не сделан ввод и вывод
+скоро будет
+*/
+
 #pragma once
 #include "BigInt.h"
 
@@ -13,10 +18,3 @@ public:
 	int getMod() const;
 };
 
-int Mod::getMod() const {
-	return model;
-}
-
-void Mod::setMod() {
-	while 
-}
